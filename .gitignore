@@ -1,0 +1,13 @@
+List/*.lst
+List/*.map
+Obj/*.axf
+Obj/*.crf
+Obj/*.d
+Obj/*.dep
+Obj/*.lnp
+Obj/*.htm
+Obj/*.o
+Obj/*.sct
+keilkilll.bat
+.vscode
+template.code-workspace
