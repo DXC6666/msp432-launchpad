@@ -1,10 +1,6 @@
-# msp432-launchpad
----
-title: msp432 LaunchPad代码库资源介绍
-date: 2022-12-16 11:54:00
-tags: map432 LaunchPad
----
-# 代码资源介绍
+# msp432-LaunchPad
+
+##代码库资源介绍
 
 |    .c文件目录    |      功能       |
 | :--------------: | :-------------: |
